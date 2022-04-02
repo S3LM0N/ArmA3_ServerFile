@@ -74,4 +74,4 @@ This project is licensed under the MIT License
 * Thanks to Bohemia Interactive for providing the .sqf programming manual.
 * Thanks to Armaholic(site closure) for providing an example mission that can be referenced.
 
-* 본 프로젝트는 학생 때부터 이어져온 프로젝트이기 때문에 최적화/안정성 문제가 여전히 있을 수 있습니다.
+* 본 프로젝트는 고등학생 때부터 이어져온 프로젝트이기 때문에 최적화/안정성 문제가 여전히 있을 수 있습니다.
