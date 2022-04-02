@@ -1,7 +1,8 @@
 # ARMA3 SERVERFILE
 
-**[https://cdn.akamai.steamstatic.com/steam/apps/107410/header.jpg?t=1643208914]**  
-One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
+**![IMAGE](https://w.namu.la/s/6347876d10b7d1bc3418fd22d03b8effc40848a5dd4789b24fc077f0aeafa5a5c237573b931aabbc124f929b73a4916e78db6d4703e8ad6eedf21345426ce152aeff2fd9d2954298123f660b828e3d23da1137e4c62ca357492ffc1f8478a55967c3c3c242fbc51b1ed74ca65f34f5df)**  
+
+샌드박스 RPG게임 ARMA3을 위한 데디케이트 서버 미션파일입니다.
 
 ## Getting Started / 어떻게 시작하나요?
 
