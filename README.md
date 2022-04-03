@@ -5,14 +5,17 @@
 샌드박스 RPG게임 ARMA3을 위한 데디케이트 서버 미션파일입니다.
 
 
-
 ## Getting Started
 
-본 레포에서는 암호화된 .pbo 형식의 파일만을 업로드합니다.
+총 용량이 5.5기가바이트로 매우 큽니다... 
 
-총 용량이 5.5Gb입니다...
+그래서 본 레포에서는 암호화된 .pbo 형식의 파일만을 업로드합니다.
 
 때문에 로컬에서(또는 편집기에서) 플레이는 어렵습니다.
+
+또한 c와 유사한 .sqf 구문을 사용합니다.
+
+https://community.bistudio.com/wiki/SQF_Syntax
 
 ### Prerequisites
 
